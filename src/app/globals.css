@@ -1,4 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap');
-@tailwind base;@tailwind components;@tailwind utilities;
-@layer base{*{-webkit-tap-highlight-color:transparent}html{direction:rtl;font-family:'IBM Plex Sans Arabic',sans-serif}body{@apply bg-srf-50 text-srf-900;min-height:100dvh}input,select,textarea{font-size:16px!important}}
-@layer components{.press{@apply transition-transform duration-100 active:scale-[0.98]}.skel{@apply bg-srf-200 rounded-lg animate-pulse}}
